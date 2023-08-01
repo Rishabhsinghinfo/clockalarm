@@ -1,4 +1,4 @@
-💢 DEMO LINK= ttps://rishabhsinghinfo.github.io/clockalarm/
+💢 DEMO LINK= https://rishabhsinghinfo.github.io/clockalarm/
 
 ⏰️ alarmclock ⏰️
 
